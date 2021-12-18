@@ -2,13 +2,14 @@
 /* CSS Document */
 
 body{margin:0; padding:0; background:#1f2737;}
-a, a:link{color:#e5ac90; text-decoration:none;}
+a, a:link{color:#0066ff; text-decoration:none;}
 .content{background:#fff; width:100%;}
 .ctdWrapper{width:980px; margin:0 auto; position:relative; height:500px;}
 .profilePic{position:absolute; bottom:-75px; left:100px;}
 .underConstruction{position:absolute; top:65px; left:160px;}
 .shortBio{position:absolute; bottom:20px; left:260px; font-size:36px; font-family: 'barthowheelregular', Arial, Helvetica, sans-serif; color:#1f2737; letter-spacing:-1px; line-height:28px;}
 .shortBio .contact{margin-top:10px; font-size:24px; color:#555;}
+
 @media all and (max-width: 1024px)
 {
 	.ctdWrapper{width:100%;}
